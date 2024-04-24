@@ -9,7 +9,7 @@ Speaking about my final paper, I’ve been working with esports since 2014, and 
 ## Detailed info
 
 * **Name**: Felipe Magosso Poveda
-* **Age**: 29
+* **Age**: 30
 * **Living in**: São Paulo - SP, Brazil
 * **Main Stack**: PHP - MySQL
 * **Learning**: Node.js - TypeScript - Ruby - Angular - Java
